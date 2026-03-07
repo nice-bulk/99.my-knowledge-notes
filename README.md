@@ -1,4 +1,4 @@
-# 📁 note
+# 📁 my-knowledge-notes
 
 個人の知識・習慣・環境をまとめたナレッジベース。
 ビジネスマインド、技術スタック、健康管理の3軸で構成されています。
@@ -8,7 +8,7 @@
 ## 📂 フォルダ構成
 
 ```
-note/
+my-knowledge-notes/
 ├── 01_Business-Mind/       # 仕事のパフォーマンスを上げるメンタル・コミュ術
 │   ├── customer-support-flow.md
 │   ├── humor.md
