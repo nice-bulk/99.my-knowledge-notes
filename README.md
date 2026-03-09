@@ -17,10 +17,13 @@ my-knowledge-notes/
 ├── 02_Technology/          # 個人開発環境・技術スタック
 │   └── my-vibe-coding-env.md
 └── 03_Health-Management/   # コンディション管理・習慣化
-    ├── exercise.md
-    ├── happiness.md
-    ├── meal.md
-    └── sleep.md
+│   ├── exercise.md
+│   ├── happiness.md
+│   ├── meal.md
+│   └── sleep.md
+└── 90_Prompts/   # プロンプト集
+    ├── ai-doctor.md
+    └── diary-assistant.md
 ```
 
 ---
