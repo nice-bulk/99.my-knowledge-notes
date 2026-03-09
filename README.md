@@ -21,7 +21,7 @@ my-knowledge-notes/
 │   ├── happiness.md
 │   ├── meal.md
 │   └── sleep.md
-└── 90_Prompts/   # プロンプト集
+└── 90_Prompts/           　# プロンプト集
     ├── ai-doctor.md
     └── diary-assistant.md
 ```
